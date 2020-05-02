@@ -1,0 +1,4 @@
+Insert 5 4 3 2 1
+Erase 3 OK
+PrintList 1 2 4 5
+Clear OK
